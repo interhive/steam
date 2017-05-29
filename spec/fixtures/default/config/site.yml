@@ -37,3 +37,5 @@ metafields:
     port: 25
     user_name: user
     password: password
+
+asset_host: ""
